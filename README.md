@@ -1,0 +1,1 @@
+This repository contains examples of Javascript's type coercion behavior with the + operator. The bug.js file shows how type coercion can lead to unexpected results, while bugSolution.js demonstrates how to avoid these issues by using explicit type checking or using methods that don't rely on type coercion.  This is a common issue when working with dynamic typing.
